@@ -19,6 +19,7 @@ The dataset consists of Swahili news articles categorized into five classes:
 
 To run the project, you only need to provide the correct paths to the training and testing dataset files. The dataset preprocessing steps, including tokenization, padding, and encoding, are handled internally.
 
+![Image](https://github.com/user-attachments/assets/c1340fee-3e14-41c3-b309-175f002b7a7b)
 ## Models Implemented
 ### 1. LSTM & CNN Models (Implemented in a separate `.ipynb` file- NLP Project_LSTM_CNN.ipynb)
 - Embedding Layer
